@@ -1,6 +1,7 @@
-# Hi there 👋
+Hi there 👋
 
-# I'm Abid, an aspiring student who is focusing on Data Analytics
+I'm Abid, an aspiring student who is focusing on Data Analytics
+I try to build whatever I can imagine
 <!--
 **abid-del/abid-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
