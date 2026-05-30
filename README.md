@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # I'm Abid, an aspiring student who is focusing on Data Analytics
 <!--
