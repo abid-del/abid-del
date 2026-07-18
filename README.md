@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Abid, an aspiring student who is focusing on Data Analytics.
+I'm Abid, an aspiring student who is focusing on Full stack and Data Analytics.
 
 I try to build whatever I can imagine.
 <!--
